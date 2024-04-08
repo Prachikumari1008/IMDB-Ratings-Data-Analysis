@@ -8,7 +8,7 @@
 - The main data structures pandas provides are Series and DataFrames.
 
 ## Read the Dataset 
-     ### we will be using three CSV files:
+      we will be using three CSV files:
 
            - ratings.csv : userId,movieId,rating, timestamp
 
