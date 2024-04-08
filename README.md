@@ -7,7 +7,7 @@
 
 - The main data structures pandas provides are Series and DataFrames.
   
-- Please visit the link to know more about Pandas : https://pypi.org/project/pandas/
+- Please visit the link to know more about Pandas : https://devdocs.io/pandas~0.25-dataframe/
 
 ## Read the Dataset 
       we will be using three CSV files:
