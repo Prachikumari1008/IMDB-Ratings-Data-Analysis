@@ -10,11 +10,13 @@
 ## Read the Dataset 
       we will be using three CSV files:
 
-           . ratings.csv : userId,movieId,rating, timestamp
+            1. movies.csv : movieId, title, genres
+            
+            2. ratings.csv : userId,movieId,rating, timestamp
 
-           . tags.csv : userId,movieId, tag, timestamp
+            3. tags.csv : userId,movieId, tag, timestamp
 
-           . movies.csv : movieId, title, genres
+           
 
 ## In this Analysis , we will be performing these following tasks :
  - Importing Libraries
