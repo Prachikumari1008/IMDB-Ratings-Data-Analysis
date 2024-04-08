@@ -6,6 +6,8 @@
 - Pandas build upon numpy and scipy providing easy-to-use data structures and data manipulation functions with integrated indexing.
 
 - The main data structures pandas provides are Series and DataFrames.
+  
+- Please visit the link to know more about Pandas : https://pypi.org/project/pandas/
 
 ## Read the Dataset 
       we will be using three CSV files:
@@ -26,4 +28,6 @@
  - Descriptive Statistics
  - Data Cleaning: Handling Missing Data
  - Data Visualization
+
+
     
