@@ -1,4 +1,5 @@
 # IMDB-Ratings-Data-Analysis Using Pandas 
+This project aims to analyze IMDb movie ratings to uncover insights into what factors contribute to a movie's success or failure in terms of audience reception. By examining various features such as genre, release year, runtime, and cast, we seek to understand patterns and correlations that influence movie ratings.
 
 ## Definitions of Pandas:
 - Pandas is a Python library for data analysis. It offers a number of data exploration, cleaning and transformation operations that are critical in working with data in Python.
